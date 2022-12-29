@@ -729,12 +729,10 @@ button.collapsed{
     .next {
         font-size: 20px;
     }
-    .dis-flex {
-        padding: 0 35px;
-    }
     #container3 .title h3::after {
         left: 0;
     }
+    .dis-flex,
     #container3 .dis-flex {
         padding: 0;
     }
