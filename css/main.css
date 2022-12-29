@@ -762,13 +762,13 @@ button.collapsed{
         display: block;
     }
 
-    .accordion-button{
+    .accordion-mb .accordion-button{
         padding: 15px 24px ;
     }
-    .accordion-body {
+    .accordion-mb .accordion-body {
         padding: 0 25px ; 
     }
-    .accordion-icon {
+    .accordion-mb .accordion-icon {
         padding: 5px 8px;
         top: 25px;
         left: -15px;
