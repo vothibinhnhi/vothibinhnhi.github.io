@@ -781,6 +781,11 @@ button.collapsed{
     .footer__link-title2 {
         max-width: 100%;
     }
+    #container4 .title h3::after {
+        left: -25%;
+    }
+    
+    
 }
 @media screen and (max-width:630px){
     .header__nav-list {
