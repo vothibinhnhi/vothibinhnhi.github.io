@@ -723,9 +723,7 @@ button.collapsed{
         max-width: 100%;
         
     }
-    .title h3 {
-        font-size: 32px;
-    }
+    .title h3,
     .next {
         font-size: 20px;
     }
@@ -782,9 +780,6 @@ button.collapsed{
     }
     .footer__link-title2 {
         max-width: 100%;
-    }
-    .title h3 {
-        font-site: 20px;
     }
 }
 @media screen and (max-width:630px){
