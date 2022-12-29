@@ -737,7 +737,6 @@ button.collapsed{
     }
     #container3 .dis-flex {
         padding: 0;
-        padding-right: 70px;
     }
     #container3 .title {
         text-align: inherit;
@@ -766,12 +765,23 @@ button.collapsed{
         padding: 15px 24px ;
     }
     .accordion-mb .accordion-body {
-        padding: 0 25px ; 
+        padding: 0 ; 
     }
     .accordion-mb .accordion-icon {
         padding: 5px 8px;
         top: 25px;
         left: -15px;
+    }
+    .content-title,
+    .content-heading {
+        padding: 0 10px;
+    }
+    .content__slider-img-left,
+    .content__slider-img-right {
+        width: 100px;
+    }
+    .footer__link-title2 {
+        max-width: 100%;
     }
 }
 @media screen and (max-width:630px){
