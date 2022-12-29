@@ -765,7 +765,7 @@ button.collapsed{
         padding: 15px 24px ;
     }
     .accordion-mb .accordion-body {
-        padding: 0 ; 
+        padding: 0 24px; 
     }
     .accordion-mb .accordion-icon {
         padding: 5px 8px;
