@@ -785,6 +785,7 @@ button.collapsed{
     }
     .title h3 {
         font-site: 20px;
+    }
 }
 @media screen and (max-width:630px){
     .header__nav-list {
