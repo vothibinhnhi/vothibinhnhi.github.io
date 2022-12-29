@@ -617,9 +617,7 @@ button.collapsed{
     #container2 .content__slider {
         margin: 0 0px;
     }
-    .slider__paragraph-heading {
-        font-size: 28px;
-    }
+    
 }
 @media screen and (min-width:1400px) {
     .content__input,
@@ -652,6 +650,9 @@ button.collapsed{
     }
     .slider__paragraph {
         width: 55%;
+    }
+    .slider__paragraph-heading {
+        font-size: 28px;
     }
 }
 
