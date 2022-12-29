@@ -652,7 +652,7 @@ button.collapsed{
         width: 55%;
     }
     .slider__paragraph-heading {
-        font-size: 28px;
+        font-size: 28px !important;
     }
 }
 
