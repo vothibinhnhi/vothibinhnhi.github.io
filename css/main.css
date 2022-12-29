@@ -761,6 +761,18 @@ button.collapsed{
     h2 .accordion-button:hover {
         display: block;
     }
+
+    .accordion-button{
+        padding: 15px 24px ;
+    }
+    .accordion-body {
+        padding: 0 25px ; 
+    }
+    .accordion-icon {
+        padding: 5px 8px;
+        top: 25px;
+        left: -15px;
+    }
 }
 @media screen and (max-width:630px){
     .header__nav-list {
