@@ -707,6 +707,9 @@ button.collapsed{
         text-align: inherit;
         display: block;
     }
+    #container2 .title h3::after {
+        left: 40%;
+    }
     .next {
         margin-top: 24px;
     }
@@ -717,6 +720,17 @@ button.collapsed{
     }
     #container2 .content__slider {
         margin: 0 0px;
+        margin-top: 40px;
+    }
+    #container2{
+        padding: 20px 0;
+    }
+    .content__slider-img-left {
+        bottom: 10px;
+    }
+    #container2 .content__slider h3 {
+        margin-bottom: 0;
+        padding-bottom: 30px;
     }
     #container2 .grid2 {
         margin-left: 0px;
@@ -795,7 +809,7 @@ button.collapsed{
     .mobile-menu-btn {
         margin-top: 25px;
     }
-
+    
 }
 @media screen and (max-width:630px){
     .header__nav-list,
